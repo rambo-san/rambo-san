@@ -9,6 +9,7 @@
 </div>
 
 ###
+![Visitor Count](https://profile-counter.glitch.me/raqmbo-san/count.svg)
 
 <div align="left">
   <a href="https://www.instagram.com/_ram_bo__/" target="_blank">
